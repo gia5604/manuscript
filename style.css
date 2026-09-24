@@ -1,0 +1,53 @@
+:root {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    padding: 3rem;
+    background-color: black;
+    color: rgb(0, 255, 13);
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1;
+    margin-block-end: 1rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    line-height: 1.1;
+    color: rgb(255, 0, 0);
+    margin-block-start: 3rem;
+    margin-block-end: 1rem;
+}
+
+p {
+    max-width: 40rem;
+    line-height: 1.5;
+}
+
+a {
+    color: rgb(85, 255, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.author {
+    max-width: none;
+    text-align: right;
+}
+
+.intro {
+    max-width: none;
+}
+
+.response-heading {
+    margin-block-start: 5rem;
+    border-block-start: 2px solid black;
+    padding-block-start: 1rem;
+}
