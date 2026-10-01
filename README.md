@@ -5,8 +5,6 @@ https://www.markdownguide.org/cheat-sheet/
 
 # Project 1: *Manuscript*
 
-Demo/template for our [first projects](https://typography-interaction-2627.github.io/project/1/).
+My project is based on John-Patrick Hartnett'S article on The Programmed Designer. Where he argues if the softwares make a designer or if its the other way round.
 
-> **Students will choose a seminal design text from [readings.design](https://readings.design), read and respond to it, and typeset their selection and reply together.**
->
-> The goal of this project is to hone your basic skills in typography, focusing on expression, hierarchy, and form appropriate to a work. You will do this through exploration, trial and error, and responding to critical feedback. And then you will execute this typesetting in code, as a web page
+The website uses semantic HTML to organise the reading and response, with CSS controlling the typography, spacing, colour, and hierarchy. The design uses a black, green, and red colour palette with Courier Prime to create a coding-interface style without using images which was inspired by the title of the reading.
